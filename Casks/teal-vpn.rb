@@ -15,7 +15,7 @@ cask "teal-vpn" do
     end
   end
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Teal VPN.app"
 
