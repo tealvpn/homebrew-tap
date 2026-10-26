@@ -1,6 +1,6 @@
 cask "teal-vpn" do
-  version "1.0,44"
-  sha256 "732b9918e4364cdd9bf73a0fe6a11b07f3d123a2fda6acdb043479bf0dac92bb"
+  version "1.0,45"
+  sha256 "6b4507f589a360809819801ba37f366aef36e4a6c6748e3f5cc68333507b51b9"
 
   url "https://download.tealvpn.com/mac/TealVPN-#{version.csv.first}-#{version.csv.second}.dmg"
   name "Teal VPN"
